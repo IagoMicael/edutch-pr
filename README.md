@@ -1,3 +1,3 @@
 # edutech-pr
-Meus projetos Edutech.
+Meus projetos EduTech!
 
